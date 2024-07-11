@@ -1,0 +1,31 @@
+
+
+/* nav styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.container {
+    text-align:center;
+    color: #FFFFFF;
+
+}
+.container-border {
+    dilplay: flex;
+    justify-content: last baseline;
+    padding-left: 90px;
+}
+/* section-style-2 */
+.description {
+    color: #0D1321;
+    text-align: center;
+    padding-left: 20px;
+    justify-content:left;
+}
+.title-fix {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 80px;
+}
