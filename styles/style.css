@@ -6,6 +6,12 @@ nav {
     justify-content: space-between;
     padding-right: 50px;
     padding-left: 50px;
+
+}
+/* section public */
+.public{
+    justify-content: space-between;
+    text-decoration: #FFFFFF;
 }
 .container {
     text-align:center;
@@ -28,4 +34,13 @@ nav {
     display: flex;
     justify-content: flex-end;
     padding-bottom: 80px;
+}
+/* main-section */
+
+.text {
+    align-items: center;
+    
+}
+.hero {
+    text-align: center;
 }
