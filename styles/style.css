@@ -44,3 +44,9 @@ nav {
 .hero {
     text-align: center;
 }
+/* foot-titles */
+.foot-title {
+    margin-inline: 20;
+    justify-items: right;
+    text-decoration: #0D1321;
+}
